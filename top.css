@@ -195,11 +195,11 @@ body {
 }
 
 .hero-main {
-    position: absolute;
-    width: 1098.65px;
-    height: 661.34px;
+       position: absolute;
+    width: 1047.65px;
+    height: 628.34px;
     left: 396px;
-    top: 75px;
+    top: 139px;
     object-fit: cover;
 }
 
@@ -231,9 +231,9 @@ body {
 }
 
 .hero-text {
-    position: absolute;
-    right: 116px;
-    top: 155px;
+     position: absolute;
+    right: -2px;
+    top: 28px;
 }
 
 .hero-title {
